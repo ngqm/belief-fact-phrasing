@@ -1,0 +1,18 @@
+# Core
+openai>=1.0
+python-dotenv
+numpy
+pandas
+scikit-learn
+tqdm
+matplotlib
+
+# Model access / local inference
+torch
+transformers>=5.8.1
+datasets
+
+# Optional: local inference (not needed for the OpenRouter API path).
+# Install vLLM from the nightly wheels, which load all 10 models:
+#   pip install -U vllm ninja --pre --extra-index-url https://wheels.vllm.ai/nightly
+ninja

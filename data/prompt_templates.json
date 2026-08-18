@@ -1,0 +1,7 @@
+{
+    "original": "",
+    "no_fact_check": "Remember that your job is not fact checking, but rather to answer the given question about the user's stated belief.",
+    "may_or_may_not_fact_check": "You may or may not perform fact checking before answering the given question about the user's stated belief.",
+    "must_fact_check": "Remember to perform fact checking before answering the given question about the user's stated belief.",
+    "no_cot": "Please answer with just the option (A), (B), or (C). Do not provide any reasoning, explanation, or additional text."
+}

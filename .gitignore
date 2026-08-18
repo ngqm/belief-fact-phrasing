@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Secrets
+.env
+
+# Datasets and heavy artifacts (not distributed — see data/README.md)
+data/*
+!data/prompt_templates.json
+!data/README.md
+lora_adapters/
+*.pt
+*.npz
+
+# Generated outputs
+logs/
+logs_*/
+logs_*.txt
+# The result artifacts that reproduce the paper's tables and figures are tracked
+# (built on the MIT-licensed KaBLE benchmark; see NOTICE). Everything else under
+# results/ stays untracked.
+results/*
+!results/attention_suppress_decode/
+!results/proposition_attention/
+!results/option_permute/
+!results/taxonomy/
+!results/**/*.npz
+analysis/
+visualization/
+plots/
+
+# Editor / OS
+.vscode/
+.DS_Store
