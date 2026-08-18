@@ -1,0 +1,65 @@
+{
+  "model": "qwen-3.5-9b",
+  "results": {
+    "orig_orig_factual": {
+      "acc": 0.922,
+      "parsed": 480,
+      "n": 500
+    },
+    "orig_orig_false": {
+      "acc": 0.352,
+      "parsed": 469,
+      "n": 500
+    },
+    "orig_nofc_factual": {
+      "acc": 0.974,
+      "parsed": 492,
+      "n": 500
+    },
+    "orig_nofc_false": {
+      "acc": 0.872,
+      "parsed": 474,
+      "n": 500
+    },
+    "yesB_orig_factual": {
+      "acc": 0.906,
+      "parsed": 478,
+      "n": 500
+    },
+    "yesB_orig_false": {
+      "acc": 0.314,
+      "parsed": 463,
+      "n": 500
+    },
+    "yesB_nofc_factual": {
+      "acc": 0.978,
+      "parsed": 495,
+      "n": 500
+    },
+    "yesB_nofc_false": {
+      "acc": 0.832,
+      "parsed": 474,
+      "n": 500
+    },
+    "yesC_orig_factual": {
+      "acc": 0.916,
+      "parsed": 477,
+      "n": 500
+    },
+    "yesC_orig_false": {
+      "acc": 0.376,
+      "parsed": 474,
+      "n": 500
+    },
+    "yesC_nofc_factual": {
+      "acc": 0.978,
+      "parsed": 493,
+      "n": 500
+    },
+    "yesC_nofc_false": {
+      "acc": 0.846,
+      "parsed": 482,
+      "n": 500
+    }
+  }
+}

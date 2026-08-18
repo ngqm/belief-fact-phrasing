@@ -1,0 +1,9 @@
+{
+ "model": "llama-3.2-3b",
+ "n_layers": 28,
+ "n_items": 1000,
+ "n_factual": 500,
+ "n_false": 500,
+ "acc_factual": 0.496,
+ "acc_false": 0.364
+}

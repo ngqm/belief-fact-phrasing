@@ -1,0 +1,65 @@
+{
+  "model": "qwen-3.5-27b",
+  "results": {
+    "orig_orig_factual": {
+      "acc": 0.988,
+      "parsed": 496,
+      "n": 500
+    },
+    "orig_orig_false": {
+      "acc": 0.846,
+      "parsed": 472,
+      "n": 500
+    },
+    "orig_nofc_factual": {
+      "acc": 1.0,
+      "parsed": 500,
+      "n": 500
+    },
+    "orig_nofc_false": {
+      "acc": 0.998,
+      "parsed": 499,
+      "n": 500
+    },
+    "yesB_orig_factual": {
+      "acc": 0.984,
+      "parsed": 494,
+      "n": 500
+    },
+    "yesB_orig_false": {
+      "acc": 0.82,
+      "parsed": 472,
+      "n": 500
+    },
+    "yesB_nofc_factual": {
+      "acc": 1.0,
+      "parsed": 500,
+      "n": 500
+    },
+    "yesB_nofc_false": {
+      "acc": 0.998,
+      "parsed": 499,
+      "n": 500
+    },
+    "yesC_orig_factual": {
+      "acc": 0.99,
+      "parsed": 495,
+      "n": 500
+    },
+    "yesC_orig_false": {
+      "acc": 0.852,
+      "parsed": 480,
+      "n": 500
+    },
+    "yesC_nofc_factual": {
+      "acc": 1.0,
+      "parsed": 500,
+      "n": 500
+    },
+    "yesC_nofc_false": {
+      "acc": 1.0,
+      "parsed": 500,
+      "n": 500
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "model": "gemma-3-4b",
+  "results": {
+    "orig_orig_factual": {
+      "acc": 0.956,
+      "parsed": 500,
+      "n": 500
+    },
+    "orig_orig_false": {
+      "acc": 0.794,
+      "parsed": 500,
+      "n": 500
+    },
+    "orig_nofc_factual": {
+      "acc": 0.996,
+      "parsed": 500,
+      "n": 500
+    },
+    "orig_nofc_false": {
+      "acc": 0.972,
+      "parsed": 500,
+      "n": 500
+    },
+    "yesB_orig_factual": {
+      "acc": 0.818,
+      "parsed": 500,
+      "n": 500
+    },
+    "yesB_orig_false": {
+      "acc": 0.602,
+      "parsed": 500,
+      "n": 500
+    },
+    "yesB_nofc_factual": {
+      "acc": 0.914,
+      "parsed": 500,
+      "n": 500
+    },
+    "yesB_nofc_false": {
+      "acc": 0.778,
+      "parsed": 500,
+      "n": 500
+    },
+    "yesC_orig_factual": {
+      "acc": 0.894,
+      "parsed": 500,
+      "n": 500
+    },
+    "yesC_orig_false": {
+      "acc": 0.68,
+      "parsed": 500,
+      "n": 500
+    },
+    "yesC_nofc_factual": {
+      "acc": 0.94,
+      "parsed": 500,
+      "n": 500
+    },
+    "yesC_nofc_false": {
+      "acc": 0.852,
+      "parsed": 500,
+      "n": 500
+    }
+  }
+}

@@ -1,0 +1,6944 @@
+{
+ "meta": {
+  "model": "qwen-3.5-27b",
+  "task": "confirmation",
+  "item_type": "factual",
+  "gold": "A",
+  "seed": 0,
+  "alpha_star": -0.5,
+  "n_total": 500,
+  "n_selection": 50,
+  "n_heldout": 450,
+  "source": [
+   "qwen-3.5-27b_n50sel_confirmation_factual.json",
+   "qwen-3.5-27b_n450heldout_confirmation_factual.json"
+  ]
+ },
+ "results": [
+  {
+   "alpha": 0.0,
+   "items": [
+    {
+     "idx": 19,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 188
+    },
+    {
+     "idx": 9,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 135
+    },
+    {
+     "idx": 30,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 114
+    },
+    {
+     "idx": 31,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 131
+    },
+    {
+     "idx": 20,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 176
+    },
+    {
+     "idx": 26,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 72
+    },
+    {
+     "idx": 1,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 89
+    },
+    {
+     "idx": 6,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 216
+    },
+    {
+     "idx": 16,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 109
+    },
+    {
+     "idx": 8,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 63
+    },
+    {
+     "idx": 31,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 236
+    },
+    {
+     "idx": 26,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 161
+    },
+    {
+     "idx": 18,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 133
+    },
+    {
+     "idx": 3,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 181
+    },
+    {
+     "idx": 43,
+     "gold": "A",
+     "answer": null,
+     "response_len": 512
+    },
+    {
+     "idx": 11,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 225
+    },
+    {
+     "idx": 33,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 350
+    },
+    {
+     "idx": 24,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 203
+    },
+    {
+     "idx": 17,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 92
+    },
+    {
+     "idx": 17,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 307
+    },
+    {
+     "idx": 0,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 304
+    },
+    {
+     "idx": 45,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 119
+    },
+    {
+     "idx": 47,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 168
+    },
+    {
+     "idx": 44,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 154
+    },
+    {
+     "idx": 24,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 100
+    },
+    {
+     "idx": 35,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 182
+    },
+    {
+     "idx": 31,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 113
+    },
+    {
+     "idx": 20,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 292
+    },
+    {
+     "idx": 14,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 110
+    },
+    {
+     "idx": 0,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 99
+    },
+    {
+     "idx": 49,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 103
+    },
+    {
+     "idx": 46,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 197
+    },
+    {
+     "idx": 5,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 263
+    },
+    {
+     "idx": 12,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 92
+    },
+    {
+     "idx": 2,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 203
+    },
+    {
+     "idx": 36,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 268
+    },
+    {
+     "idx": 15,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 82
+    },
+    {
+     "idx": 8,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 129
+    },
+    {
+     "idx": 43,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 117
+    },
+    {
+     "idx": 14,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 61
+    },
+    {
+     "idx": 42,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 129
+    },
+    {
+     "idx": 48,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 145
+    },
+    {
+     "idx": 38,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 94
+    },
+    {
+     "idx": 33,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 303
+    },
+    {
+     "idx": 7,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 152
+    },
+    {
+     "idx": 27,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 59
+    },
+    {
+     "idx": 4,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 67
+    },
+    {
+     "idx": 10,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 122
+    },
+    {
+     "idx": 27,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 102
+    },
+    {
+     "idx": 6,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 116
+    },
+    {
+     "idx": 16,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 104
+    },
+    {
+     "idx": 27,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 115
+    },
+    {
+     "idx": 43,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 161
+    },
+    {
+     "idx": 34,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 163
+    },
+    {
+     "idx": 34,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 166
+    },
+    {
+     "idx": 27,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 66
+    },
+    {
+     "idx": 9,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 67
+    },
+    {
+     "idx": 17,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 194
+    },
+    {
+     "idx": 17,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 177
+    },
+    {
+     "idx": 17,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 114
+    },
+    {
+     "idx": 40,
+     "gold": "A",
+     "answer": null,
+     "response_len": 512
+    },
+    {
+     "idx": 29,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 94
+    },
+    {
+     "idx": 18,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 247
+    },
+    {
+     "idx": 20,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 73
+    },
+    {
+     "idx": 1,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 226
+    },
+    {
+     "idx": 40,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 109
+    },
+    {
+     "idx": 38,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 220
+    },
+    {
+     "idx": 28,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 178
+    },
+    {
+     "idx": 1,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 116
+    },
+    {
+     "idx": 39,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 78
+    },
+    {
+     "idx": 5,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 84
+    },
+    {
+     "idx": 10,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 99
+    },
+    {
+     "idx": 18,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 78
+    },
+    {
+     "idx": 13,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 84
+    },
+    {
+     "idx": 14,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 206
+    },
+    {
+     "idx": 4,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 62
+    },
+    {
+     "idx": 39,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 211
+    },
+    {
+     "idx": 41,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 224
+    },
+    {
+     "idx": 37,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 183
+    },
+    {
+     "idx": 24,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 95
+    },
+    {
+     "idx": 6,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 137
+    },
+    {
+     "idx": 5,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 76
+    },
+    {
+     "idx": 32,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 204
+    },
+    {
+     "idx": 15,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 235
+    },
+    {
+     "idx": 25,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 145
+    },
+    {
+     "idx": 9,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 343
+    },
+    {
+     "idx": 19,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 117
+    },
+    {
+     "idx": 29,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 239
+    },
+    {
+     "idx": 41,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 215
+    },
+    {
+     "idx": 37,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 52
+    },
+    {
+     "idx": 29,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 85
+    },
+    {
+     "idx": 1,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 124
+    },
+    {
+     "idx": 39,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 83
+    },
+    {
+     "idx": 27,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 111
+    },
+    {
+     "idx": 46,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 198
+    },
+    {
+     "idx": 12,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 104
+    },
+    {
+     "idx": 42,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 113
+    },
+    {
+     "idx": 3,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 95
+    },
+    {
+     "idx": 42,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 96
+    },
+    {
+     "idx": 22,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 270
+    },
+    {
+     "idx": 33,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 123
+    },
+    {
+     "idx": 44,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 119
+    },
+    {
+     "idx": 17,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 131
+    },
+    {
+     "idx": 34,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 213
+    },
+    {
+     "idx": 42,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 88
+    },
+    {
+     "idx": 14,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 167
+    },
+    {
+     "idx": 36,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 100
+    },
+    {
+     "idx": 3,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 93
+    },
+    {
+     "idx": 31,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 297
+    },
+    {
+     "idx": 15,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 116
+    },
+    {
+     "idx": 37,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 142
+    },
+    {
+     "idx": 21,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 108
+    },
+    {
+     "idx": 31,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 98
+    },
+    {
+     "idx": 19,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 85
+    },
+    {
+     "idx": 38,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 88
+    },
+    {
+     "idx": 25,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 119
+    },
+    {
+     "idx": 7,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 109
+    },
+    {
+     "idx": 46,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 59
+    },
+    {
+     "idx": 0,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 135
+    },
+    {
+     "idx": 35,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 112
+    },
+    {
+     "idx": 25,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 59
+    },
+    {
+     "idx": 6,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 185
+    },
+    {
+     "idx": 47,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 145
+    },
+    {
+     "idx": 37,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 256
+    },
+    {
+     "idx": 15,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 70
+    },
+    {
+     "idx": 43,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 170
+    },
+    {
+     "idx": 5,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 112
+    },
+    {
+     "idx": 19,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 112
+    },
+    {
+     "idx": 38,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 278
+    },
+    {
+     "idx": 47,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 193
+    },
+    {
+     "idx": 2,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 143
+    },
+    {
+     "idx": 49,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 158
+    },
+    {
+     "idx": 19,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 98
+    },
+    {
+     "idx": 3,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 134
+    },
+    {
+     "idx": 49,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 62
+    },
+    {
+     "idx": 30,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 82
+    },
+    {
+     "idx": 30,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 245
+    },
+    {
+     "idx": 17,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 169
+    },
+    {
+     "idx": 9,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 77
+    },
+    {
+     "idx": 27,
+     "gold": "A",
+     "answer": null,
+     "response_len": 512
+    },
+    {
+     "idx": 43,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 82
+    },
+    {
+     "idx": 26,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 85
+    },
+    {
+     "idx": 2,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 75
+    },
+    {
+     "idx": 2,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 180
+    },
+    {
+     "idx": 11,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 80
+    },
+    {
+     "idx": 10,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 131
+    },
+    {
+     "idx": 4,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 323
+    },
+    {
+     "idx": 21,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 201
+    },
+    {
+     "idx": 39,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 270
+    },
+    {
+     "idx": 1,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 81
+    },
+    {
+     "idx": 38,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 133
+    },
+    {
+     "idx": 33,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 187
+    },
+    {
+     "idx": 4,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 81
+    },
+    {
+     "idx": 15,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 90
+    },
+    {
+     "idx": 6,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 101
+    },
+    {
+     "idx": 15,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 79
+    },
+    {
+     "idx": 20,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 126
+    },
+    {
+     "idx": 5,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 126
+    },
+    {
+     "idx": 2,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 357
+    },
+    {
+     "idx": 1,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 106
+    },
+    {
+     "idx": 21,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 110
+    },
+    {
+     "idx": 8,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 121
+    },
+    {
+     "idx": 45,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 213
+    },
+    {
+     "idx": 26,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 66
+    },
+    {
+     "idx": 27,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 182
+    },
+    {
+     "idx": 12,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 95
+    },
+    {
+     "idx": 36,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 153
+    },
+    {
+     "idx": 30,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 218
+    },
+    {
+     "idx": 35,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 87
+    },
+    {
+     "idx": 25,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 202
+    },
+    {
+     "idx": 41,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 228
+    },
+    {
+     "idx": 13,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 90
+    },
+    {
+     "idx": 25,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 133
+    },
+    {
+     "idx": 30,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 76
+    },
+    {
+     "idx": 4,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 180
+    },
+    {
+     "idx": 44,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 62
+    },
+    {
+     "idx": 30,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 100
+    },
+    {
+     "idx": 36,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 141
+    },
+    {
+     "idx": 23,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 69
+    },
+    {
+     "idx": 13,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 112
+    },
+    {
+     "idx": 3,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 130
+    },
+    {
+     "idx": 38,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 66
+    },
+    {
+     "idx": 21,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 108
+    },
+    {
+     "idx": 12,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 83
+    },
+    {
+     "idx": 3,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 113
+    },
+    {
+     "idx": 24,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 89
+    },
+    {
+     "idx": 45,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 95
+    },
+    {
+     "idx": 12,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 244
+    },
+    {
+     "idx": 19,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 84
+    },
+    {
+     "idx": 36,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 97
+    },
+    {
+     "idx": 33,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 201
+    },
+    {
+     "idx": 26,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 102
+    },
+    {
+     "idx": 9,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 112
+    },
+    {
+     "idx": 10,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 102
+    },
+    {
+     "idx": 43,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 83
+    },
+    {
+     "idx": 23,
+     "gold": "A",
+     "answer": null,
+     "response_len": 512
+    },
+    {
+     "idx": 5,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 97
+    },
+    {
+     "idx": 8,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 92
+    },
+    {
+     "idx": 35,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 109
+    },
+    {
+     "idx": 34,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 129
+    },
+    {
+     "idx": 24,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 81
+    },
+    {
+     "idx": 32,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 108
+    },
+    {
+     "idx": 21,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 90
+    },
+    {
+     "idx": 29,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 106
+    },
+    {
+     "idx": 20,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 60
+    },
+    {
+     "idx": 7,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 122
+    },
+    {
+     "idx": 2,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 215
+    },
+    {
+     "idx": 31,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 117
+    },
+    {
+     "idx": 7,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 78
+    },
+    {
+     "idx": 37,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 82
+    },
+    {
+     "idx": 4,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 244
+    },
+    {
+     "idx": 16,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 102
+    },
+    {
+     "idx": 24,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 96
+    },
+    {
+     "idx": 34,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 196
+    },
+    {
+     "idx": 37,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 150
+    },
+    {
+     "idx": 33,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 251
+    },
+    {
+     "idx": 45,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 104
+    },
+    {
+     "idx": 46,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 113
+    },
+    {
+     "idx": 3,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 118
+    },
+    {
+     "idx": 18,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 199
+    },
+    {
+     "idx": 14,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 85
+    },
+    {
+     "idx": 7,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 65
+    },
+    {
+     "idx": 7,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 121
+    },
+    {
+     "idx": 3,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 85
+    },
+    {
+     "idx": 29,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 111
+    },
+    {
+     "idx": 35,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 280
+    },
+    {
+     "idx": 28,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 70
+    },
+    {
+     "idx": 49,
+     "gold": "A",
+     "answer": null,
+     "response_len": 512
+    },
+    {
+     "idx": 2,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 135
+    },
+    {
+     "idx": 28,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 92
+    },
+    {
+     "idx": 37,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 164
+    },
+    {
+     "idx": 46,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 124
+    },
+    {
+     "idx": 12,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 251
+    },
+    {
+     "idx": 6,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 98
+    },
+    {
+     "idx": 41,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 54
+    },
+    {
+     "idx": 41,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 161
+    },
+    {
+     "idx": 29,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 155
+    },
+    {
+     "idx": 2,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 85
+    },
+    {
+     "idx": 33,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 283
+    },
+    {
+     "idx": 13,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 91
+    },
+    {
+     "idx": 30,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 205
+    },
+    {
+     "idx": 25,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 84
+    },
+    {
+     "idx": 28,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 163
+    },
+    {
+     "idx": 42,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 101
+    },
+    {
+     "idx": 1,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 133
+    },
+    {
+     "idx": 41,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 212
+    },
+    {
+     "idx": 22,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 96
+    },
+    {
+     "idx": 23,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 254
+    },
+    {
+     "idx": 6,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 92
+    },
+    {
+     "idx": 40,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 222
+    },
+    {
+     "idx": 34,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 72
+    },
+    {
+     "idx": 46,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 170
+    },
+    {
+     "idx": 45,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 132
+    },
+    {
+     "idx": 15,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 81
+    },
+    {
+     "idx": 34,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 186
+    },
+    {
+     "idx": 43,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 110
+    },
+    {
+     "idx": 25,
+     "gold": "A",
+     "answer": "B",
+     "response_len": 286
+    },
+    {
+     "idx": 40,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 143
+    },
+    {
+     "idx": 40,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 74
+    },
+    {
+     "idx": 34,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 138
+    },
+    {
+     "idx": 19,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 78
+    },
+    {
+     "idx": 28,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 173
+    },
+    {
+     "idx": 23,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 117
+    },
+    {
+     "idx": 48,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 99
+    },
+    {
+     "idx": 48,
+     "gold": "A",
+     "answer": null,
+     "response_len": 512
+    },
+    {
+     "idx": 9,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 255
+    },
+    {
+     "idx": 6,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 269
+    },
+    {
+     "idx": 9,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 100
+    },
+    {
+     "idx": 32,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 90
+    },
+    {
+     "idx": 6,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 129
+    },
+    {
+     "idx": 39,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 201
+    },
+    {
+     "idx": 45,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 128
+    },
+    {
+     "idx": 10,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 113
+    },
+    {
+     "idx": 21,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 168
+    },
+    {
+     "idx": 21,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 79
+    },
+    {
+     "idx": 25,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 268
+    },
+    {
+     "idx": 32,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 120
+    },
+    {
+     "idx": 31,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 241
+    },
+    {
+     "idx": 29,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 129
+    },
+    {
+     "idx": 45,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 60
+    },
+    {
+     "idx": 36,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 118
+    },
+    {
+     "idx": 40,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 117
+    },
+    {
+     "idx": 34,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 108
+    },
+    {
+     "idx": 33,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 104
+    },
+    {
+     "idx": 2,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 69
+    },
+    {
+     "idx": 14,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 225
+    },
+    {
+     "idx": 49,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 106
+    },
+    {
+     "idx": 44,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 106
+    },
+    {
+     "idx": 39,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 157
+    },
+    {
+     "idx": 7,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 110
+    },
+    {
+     "idx": 3,
+     "gold": "A",
+     "answer": "C",
+     "response_len": 512
+    },
+    {
+     "idx": 42,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 120
+    },
+    {
+     "idx": 23,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 81
+    },
+    {
+     "idx": 29,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 102
+    },
+    {
+     "idx": 3,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 80
+    },
+    {
+     "idx": 36,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 227
+    },
+    {
+     "idx": 16,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 110
+    },
+    {
+     "idx": 24,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 88
+    },
+    {
+     "idx": 26,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 95
+    },
+    {
+     "idx": 15,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 92
+    },
+    {
+     "idx": 17,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 194
+    },
+    {
+     "idx": 40,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 101
+    },
+    {
+     "idx": 9,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 164
+    },
+    {
+     "idx": 29,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 137
+    },
+    {
+     "idx": 7,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 69
+    },
+    {
+     "idx": 45,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 86
+    },
+    {
+     "idx": 19,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 209
+    },
+    {
+     "idx": 32,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 104
+    },
+    {
+     "idx": 49,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 238
+    },
+    {
+     "idx": 11,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 246
+    },
+    {
+     "idx": 18,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 171
+    },
+    {
+     "idx": 35,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 194
+    },
+    {
+     "idx": 39,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 220
+    },
+    {
+     "idx": 39,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 74
+    },
+    {
+     "idx": 14,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 97
+    },
+    {
+     "idx": 11,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 162
+    },
+    {
+     "idx": 35,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 87
+    },
+    {
+     "idx": 10,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 166
+    },
+    {
+     "idx": 31,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 243
+    },
+    {
+     "idx": 49,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 104
+    },
+    {
+     "idx": 13,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 181
+    },
+    {
+     "idx": 10,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 267
+    },
+    {
+     "idx": 44,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 196
+    },
+    {
+     "idx": 23,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 87
+    },
+    {
+     "idx": 43,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 181
+    },
+    {
+     "idx": 23,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 159
+    },
+    {
+     "idx": 34,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 221
+    },
+    {
+     "idx": 24,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 249
+    },
+    {
+     "idx": 4,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 287
+    },
+    {
+     "idx": 41,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 116
+    },
+    {
+     "idx": 18,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 90
+    },
+    {
+     "idx": 47,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 95
+    },
+    {
+     "idx": 37,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 203
+    },
+    {
+     "idx": 40,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 126
+    },
+    {
+     "idx": 12,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 109
+    },
+    {
+     "idx": 44,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 103
+    },
+    {
+     "idx": 38,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 94
+    },
+    {
+     "idx": 8,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 130
+    },
+    {
+     "idx": 25,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 118
+    },
+    {
+     "idx": 18,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 158
+    },
+    {
+     "idx": 21,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 66
+    },
+    {
+     "idx": 22,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 127
+    },
+    {
+     "idx": 42,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 215
+    },
+    {
+     "idx": 49,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 306
+    },
+    {
+     "idx": 9,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 148
+    },
+    {
+     "idx": 28,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 122
+    },
+    {
+     "idx": 21,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 328
+    },
+    {
+     "idx": 42,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 274
+    },
+    {
+     "idx": 32,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 81
+    },
+    {
+     "idx": 28,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 118
+    },
+    {
+     "idx": 38,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 165
+    },
+    {
+     "idx": 26,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 153
+    },
+    {
+     "idx": 30,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 139
+    },
+    {
+     "idx": 40,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 103
+    },
+    {
+     "idx": 46,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 211
+    },
+    {
+     "idx": 14,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 101
+    },
+    {
+     "idx": 1,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 202
+    },
+    {
+     "idx": 22,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 76
+    },
+    {
+     "idx": 10,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 90
+    },
+    {
+     "idx": 20,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 94
+    },
+    {
+     "idx": 17,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 117
+    },
+    {
+     "idx": 41,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 189
+    },
+    {
+     "idx": 18,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 161
+    },
+    {
+     "idx": 0,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 166
+    },
+    {
+     "idx": 0,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 203
+    },
+    {
+     "idx": 49,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 162
+    },
+    {
+     "idx": 46,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 89
+    },
+    {
+     "idx": 8,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 106
+    },
+    {
+     "idx": 8,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 274
+    },
+    {
+     "idx": 19,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 66
+    },
+    {
+     "idx": 26,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 75
+    },
+    {
+     "idx": 16,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 176
+    },
+    {
+     "idx": 47,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 213
+    },
+    {
+     "idx": 45,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 202
+    },
+    {
+     "idx": 35,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 86
+    },
+    {
+     "idx": 43,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 82
+    },
+    {
+     "idx": 42,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 170
+    },
+    {
+     "idx": 36,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 165
+    },
+    {
+     "idx": 27,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 114
+    },
+    {
+     "idx": 16,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 114
+    },
+    {
+     "idx": 45,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 107
+    },
+    {
+     "idx": 46,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 162
+    },
+    {
+     "idx": 44,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 54
+    },
+    {
+     "idx": 48,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 85
+    },
+    {
+     "idx": 23,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 100
+    },
+    {
+     "idx": 44,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 198
+    },
+    {
+     "idx": 12,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 72
+    },
+    {
+     "idx": 48,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 107
+    },
+    {
+     "idx": 5,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 77
+    },
+    {
+     "idx": 22,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 93
+    },
+    {
+     "idx": 27,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 93
+    },
+    {
+     "idx": 47,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 131
+    },
+    {
+     "idx": 0,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 92
+    },
+    {
+     "idx": 48,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 66
+    },
+    {
+     "idx": 16,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 193
+    },
+    {
+     "idx": 48,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 117
+    },
+    {
+     "idx": 26,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 86
+    },
+    {
+     "idx": 37,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 118
+    },
+    {
+     "idx": 39,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 133
+    },
+    {
+     "idx": 13,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 176
+    },
+    {
+     "idx": 18,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 205
+    },
+    {
+     "idx": 49,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 100
+    },
+    {
+     "idx": 47,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 80
+    },
+    {
+     "idx": 4,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 171
+    },
+    {
+     "idx": 5,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 149
+    },
+    {
+     "idx": 0,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 80
+    },
+    {
+     "idx": 10,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 117
+    },
+    {
+     "idx": 13,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 260
+    },
+    {
+     "idx": 41,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 265
+    },
+    {
+     "idx": 46,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 344
+    },
+    {
+     "idx": 29,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 87
+    },
+    {
+     "idx": 28,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 124
+    },
+    {
+     "idx": 17,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 86
+    },
+    {
+     "idx": 22,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 134
+    },
+    {
+     "idx": 11,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 88
+    },
+    {
+     "idx": 22,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 90
+    },
+    {
+     "idx": 13,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 121
+    },
+    {
+     "idx": 40,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 119
+    },
+    {
+     "idx": 47,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 201
+    },
+    {
+     "idx": 32,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 92
+    },
+    {
+     "idx": 10,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 94
+    },
+    {
+     "idx": 16,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 61
+    },
+    {
+     "idx": 39,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 174
+    },
+    {
+     "idx": 24,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 148
+    },
+    {
+     "idx": 20,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 71
+    },
+    {
+     "idx": 23,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 102
+    },
+    {
+     "idx": 2,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 113
+    },
+    {
+     "idx": 13,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 130
+    },
+    {
+     "idx": 0,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 181
+    },
+    {
+     "idx": 20,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 230
+    },
+    {
+     "idx": 42,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 214
+    },
+    {
+     "idx": 38,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 84
+    },
+    {
+     "idx": 22,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 244
+    },
+    {
+     "idx": 13,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 124
+    },
+    {
+     "idx": 4,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 95
+    },
+    {
+     "idx": 30,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 267
+    },
+    {
+     "idx": 18,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 117
+    },
+    {
+     "idx": 47,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 123
+    },
+    {
+     "idx": 7,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 189
+    },
+    {
+     "idx": 30,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 74
+    },
+    {
+     "idx": 12,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 160
+    },
+    {
+     "idx": 31,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 148
+    },
+    {
+     "idx": 33,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 89
+    },
+    {
+     "idx": 16,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 112
+    },
+    {
+     "idx": 43,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 286
+    },
+    {
+     "idx": 26,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 157
+    },
+    {
+     "idx": 35,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 132
+    },
+    {
+     "idx": 32,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 80
+    },
+    {
+     "idx": 4,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 66
+    },
+    {
+     "idx": 27,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 205
+    },
+    {
+     "idx": 12,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 211
+    },
+    {
+     "idx": 11,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 151
+    },
+    {
+     "idx": 22,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 106
+    },
+    {
+     "idx": 31,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 97
+    },
+    {
+     "idx": 1,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 141
+    },
+    {
+     "idx": 36,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 141
+    },
+    {
+     "idx": 41,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 79
+    },
+    {
+     "idx": 19,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 140
+    },
+    {
+     "idx": 0,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 159
+    },
+    {
+     "idx": 35,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 124
+    },
+    {
+     "idx": 37,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 120
+    },
+    {
+     "idx": 23,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 272
+    },
+    {
+     "idx": 0,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 217
+    },
+    {
+     "idx": 8,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 112
+    },
+    {
+     "idx": 25,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 160
+    },
+    {
+     "idx": 11,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 116
+    },
+    {
+     "idx": 8,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 228
+    },
+    {
+     "idx": 14,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 91
+    },
+    {
+     "idx": 11,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 56
+    },
+    {
+     "idx": 22,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 149
+    },
+    {
+     "idx": 15,
+     "gold": "A",
+     "answer": null,
+     "response_len": 512
+    },
+    {
+     "idx": 28,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 179
+    },
+    {
+     "idx": 9,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 90
+    },
+    {
+     "idx": 16,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 90
+    },
+    {
+     "idx": 48,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 128
+    },
+    {
+     "idx": 36,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 91
+    },
+    {
+     "idx": 28,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 88
+    },
+    {
+     "idx": 44,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 102
+    },
+    {
+     "idx": 21,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 160
+    },
+    {
+     "idx": 8,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 275
+    },
+    {
+     "idx": 11,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 89
+    },
+    {
+     "idx": 14,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 178
+    },
+    {
+     "idx": 6,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 115
+    },
+    {
+     "idx": 48,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 175
+    },
+    {
+     "idx": 33,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 94
+    },
+    {
+     "idx": 44,
+     "gold": "A",
+     "answer": null,
+     "response_len": 512
+    },
+    {
+     "idx": 5,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 208
+    },
+    {
+     "idx": 24,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 88
+    },
+    {
+     "idx": 1,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 65
+    },
+    {
+     "idx": 20,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 99
+    },
+    {
+     "idx": 7,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 97
+    },
+    {
+     "idx": 48,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 71
+    },
+    {
+     "idx": 11,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 84
+    },
+    {
+     "idx": 32,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 134
+    },
+    {
+     "idx": 20,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 95
+    },
+    {
+     "idx": 15,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 197
+    },
+    {
+     "idx": 5,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 153
+    },
+    {
+     "idx": 38,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 142
+    },
+    {
+     "idx": 47,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 73
+    },
+    {
+     "idx": 32,
+     "gold": "A",
+     "answer": null,
+     "response_len": 512
+    }
+   ]
+  },
+  {
+   "alpha": -0.5,
+   "items": [
+    {
+     "idx": 19,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 173
+    },
+    {
+     "idx": 9,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 138
+    },
+    {
+     "idx": 30,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 114
+    },
+    {
+     "idx": 31,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 102
+    },
+    {
+     "idx": 20,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 173
+    },
+    {
+     "idx": 26,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 71
+    },
+    {
+     "idx": 1,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 89
+    },
+    {
+     "idx": 6,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 216
+    },
+    {
+     "idx": 16,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 109
+    },
+    {
+     "idx": 8,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 68
+    },
+    {
+     "idx": 31,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 224
+    },
+    {
+     "idx": 26,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 231
+    },
+    {
+     "idx": 18,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 131
+    },
+    {
+     "idx": 3,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 169
+    },
+    {
+     "idx": 43,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 385
+    },
+    {
+     "idx": 11,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 210
+    },
+    {
+     "idx": 33,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 298
+    },
+    {
+     "idx": 24,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 247
+    },
+    {
+     "idx": 17,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 201
+    },
+    {
+     "idx": 17,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 307
+    },
+    {
+     "idx": 0,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 176
+    },
+    {
+     "idx": 45,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 80
+    },
+    {
+     "idx": 47,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 175
+    },
+    {
+     "idx": 44,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 147
+    },
+    {
+     "idx": 24,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 101
+    },
+    {
+     "idx": 35,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 187
+    },
+    {
+     "idx": 31,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 114
+    },
+    {
+     "idx": 20,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 290
+    },
+    {
+     "idx": 14,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 93
+    },
+    {
+     "idx": 0,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 95
+    },
+    {
+     "idx": 49,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 103
+    },
+    {
+     "idx": 46,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 285
+    },
+    {
+     "idx": 5,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 149
+    },
+    {
+     "idx": 12,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 92
+    },
+    {
+     "idx": 2,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 83
+    },
+    {
+     "idx": 36,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 145
+    },
+    {
+     "idx": 15,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 82
+    },
+    {
+     "idx": 8,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 129
+    },
+    {
+     "idx": 43,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 82
+    },
+    {
+     "idx": 14,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 61
+    },
+    {
+     "idx": 42,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 124
+    },
+    {
+     "idx": 48,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 124
+    },
+    {
+     "idx": 38,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 94
+    },
+    {
+     "idx": 33,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 279
+    },
+    {
+     "idx": 7,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 259
+    },
+    {
+     "idx": 27,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 58
+    },
+    {
+     "idx": 4,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 67
+    },
+    {
+     "idx": 10,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 80
+    },
+    {
+     "idx": 27,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 102
+    },
+    {
+     "idx": 6,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 108
+    },
+    {
+     "idx": 16,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 89
+    },
+    {
+     "idx": 27,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 115
+    },
+    {
+     "idx": 43,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 189
+    },
+    {
+     "idx": 34,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 118
+    },
+    {
+     "idx": 34,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 115
+    },
+    {
+     "idx": 27,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 66
+    },
+    {
+     "idx": 9,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 67
+    },
+    {
+     "idx": 17,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 194
+    },
+    {
+     "idx": 17,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 164
+    },
+    {
+     "idx": 17,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 155
+    },
+    {
+     "idx": 40,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 374
+    },
+    {
+     "idx": 29,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 94
+    },
+    {
+     "idx": 18,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 244
+    },
+    {
+     "idx": 20,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 71
+    },
+    {
+     "idx": 1,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 224
+    },
+    {
+     "idx": 40,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 69
+    },
+    {
+     "idx": 38,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 220
+    },
+    {
+     "idx": 28,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 102
+    },
+    {
+     "idx": 1,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 113
+    },
+    {
+     "idx": 39,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 78
+    },
+    {
+     "idx": 5,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 84
+    },
+    {
+     "idx": 10,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 99
+    },
+    {
+     "idx": 18,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 78
+    },
+    {
+     "idx": 13,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 82
+    },
+    {
+     "idx": 14,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 173
+    },
+    {
+     "idx": 4,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 59
+    },
+    {
+     "idx": 39,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 117
+    },
+    {
+     "idx": 41,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 126
+    },
+    {
+     "idx": 37,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 226
+    },
+    {
+     "idx": 24,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 98
+    },
+    {
+     "idx": 6,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 128
+    },
+    {
+     "idx": 5,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 76
+    },
+    {
+     "idx": 32,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 202
+    },
+    {
+     "idx": 15,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 243
+    },
+    {
+     "idx": 25,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 92
+    },
+    {
+     "idx": 9,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 141
+    },
+    {
+     "idx": 19,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 117
+    },
+    {
+     "idx": 29,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 90
+    },
+    {
+     "idx": 41,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 215
+    },
+    {
+     "idx": 37,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 52
+    },
+    {
+     "idx": 29,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 67
+    },
+    {
+     "idx": 1,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 164
+    },
+    {
+     "idx": 39,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 79
+    },
+    {
+     "idx": 27,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 111
+    },
+    {
+     "idx": 46,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 137
+    },
+    {
+     "idx": 12,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 104
+    },
+    {
+     "idx": 42,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 107
+    },
+    {
+     "idx": 3,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 95
+    },
+    {
+     "idx": 42,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 96
+    },
+    {
+     "idx": 22,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 225
+    },
+    {
+     "idx": 33,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 123
+    },
+    {
+     "idx": 44,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 111
+    },
+    {
+     "idx": 17,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 133
+    },
+    {
+     "idx": 34,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 183
+    },
+    {
+     "idx": 42,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 88
+    },
+    {
+     "idx": 14,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 167
+    },
+    {
+     "idx": 36,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 100
+    },
+    {
+     "idx": 3,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 93
+    },
+    {
+     "idx": 31,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 277
+    },
+    {
+     "idx": 15,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 136
+    },
+    {
+     "idx": 37,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 339
+    },
+    {
+     "idx": 21,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 79
+    },
+    {
+     "idx": 31,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 97
+    },
+    {
+     "idx": 19,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 88
+    },
+    {
+     "idx": 38,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 88
+    },
+    {
+     "idx": 25,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 92
+    },
+    {
+     "idx": 7,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 109
+    },
+    {
+     "idx": 46,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 59
+    },
+    {
+     "idx": 0,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 135
+    },
+    {
+     "idx": 35,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 112
+    },
+    {
+     "idx": 25,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 59
+    },
+    {
+     "idx": 6,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 185
+    },
+    {
+     "idx": 47,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 102
+    },
+    {
+     "idx": 37,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 282
+    },
+    {
+     "idx": 15,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 70
+    },
+    {
+     "idx": 43,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 166
+    },
+    {
+     "idx": 5,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 109
+    },
+    {
+     "idx": 19,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 112
+    },
+    {
+     "idx": 38,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 255
+    },
+    {
+     "idx": 47,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 160
+    },
+    {
+     "idx": 2,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 143
+    },
+    {
+     "idx": 49,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 153
+    },
+    {
+     "idx": 19,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 98
+    },
+    {
+     "idx": 3,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 192
+    },
+    {
+     "idx": 49,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 51
+    },
+    {
+     "idx": 30,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 85
+    },
+    {
+     "idx": 30,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 220
+    },
+    {
+     "idx": 17,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 105
+    },
+    {
+     "idx": 9,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 77
+    },
+    {
+     "idx": 27,
+     "gold": "A",
+     "answer": null,
+     "response_len": 512
+    },
+    {
+     "idx": 43,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 73
+    },
+    {
+     "idx": 26,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 85
+    },
+    {
+     "idx": 2,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 75
+    },
+    {
+     "idx": 2,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 181
+    },
+    {
+     "idx": 11,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 80
+    },
+    {
+     "idx": 10,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 131
+    },
+    {
+     "idx": 4,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 285
+    },
+    {
+     "idx": 21,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 189
+    },
+    {
+     "idx": 39,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 270
+    },
+    {
+     "idx": 1,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 85
+    },
+    {
+     "idx": 38,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 103
+    },
+    {
+     "idx": 33,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 187
+    },
+    {
+     "idx": 4,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 81
+    },
+    {
+     "idx": 15,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 92
+    },
+    {
+     "idx": 6,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 101
+    },
+    {
+     "idx": 15,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 79
+    },
+    {
+     "idx": 20,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 126
+    },
+    {
+     "idx": 5,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 126
+    },
+    {
+     "idx": 2,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 354
+    },
+    {
+     "idx": 1,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 106
+    },
+    {
+     "idx": 21,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 110
+    },
+    {
+     "idx": 8,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 122
+    },
+    {
+     "idx": 45,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 208
+    },
+    {
+     "idx": 26,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 66
+    },
+    {
+     "idx": 27,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 182
+    },
+    {
+     "idx": 12,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 100
+    },
+    {
+     "idx": 36,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 134
+    },
+    {
+     "idx": 30,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 206
+    },
+    {
+     "idx": 35,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 89
+    },
+    {
+     "idx": 25,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 222
+    },
+    {
+     "idx": 41,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 76
+    },
+    {
+     "idx": 13,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 138
+    },
+    {
+     "idx": 25,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 83
+    },
+    {
+     "idx": 30,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 76
+    },
+    {
+     "idx": 4,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 129
+    },
+    {
+     "idx": 44,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 62
+    },
+    {
+     "idx": 30,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 100
+    },
+    {
+     "idx": 36,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 79
+    },
+    {
+     "idx": 23,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 69
+    },
+    {
+     "idx": 13,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 87
+    },
+    {
+     "idx": 3,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 121
+    },
+    {
+     "idx": 38,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 66
+    },
+    {
+     "idx": 21,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 109
+    },
+    {
+     "idx": 12,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 83
+    },
+    {
+     "idx": 3,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 113
+    },
+    {
+     "idx": 24,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 80
+    },
+    {
+     "idx": 45,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 95
+    },
+    {
+     "idx": 12,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 212
+    },
+    {
+     "idx": 19,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 84
+    },
+    {
+     "idx": 36,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 95
+    },
+    {
+     "idx": 33,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 222
+    },
+    {
+     "idx": 26,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 102
+    },
+    {
+     "idx": 9,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 116
+    },
+    {
+     "idx": 10,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 99
+    },
+    {
+     "idx": 43,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 86
+    },
+    {
+     "idx": 23,
+     "gold": "A",
+     "answer": null,
+     "response_len": 512
+    },
+    {
+     "idx": 5,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 97
+    },
+    {
+     "idx": 8,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 92
+    },
+    {
+     "idx": 35,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 123
+    },
+    {
+     "idx": 34,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 129
+    },
+    {
+     "idx": 24,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 81
+    },
+    {
+     "idx": 32,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 117
+    },
+    {
+     "idx": 21,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 90
+    },
+    {
+     "idx": 29,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 106
+    },
+    {
+     "idx": 20,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 85
+    },
+    {
+     "idx": 7,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 114
+    },
+    {
+     "idx": 2,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 216
+    },
+    {
+     "idx": 31,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 133
+    },
+    {
+     "idx": 7,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 78
+    },
+    {
+     "idx": 37,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 81
+    },
+    {
+     "idx": 4,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 244
+    },
+    {
+     "idx": 16,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 93
+    },
+    {
+     "idx": 24,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 209
+    },
+    {
+     "idx": 34,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 136
+    },
+    {
+     "idx": 37,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 222
+    },
+    {
+     "idx": 33,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 240
+    },
+    {
+     "idx": 45,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 104
+    },
+    {
+     "idx": 46,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 113
+    },
+    {
+     "idx": 3,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 118
+    },
+    {
+     "idx": 18,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 199
+    },
+    {
+     "idx": 14,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 85
+    },
+    {
+     "idx": 7,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 83
+    },
+    {
+     "idx": 7,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 121
+    },
+    {
+     "idx": 3,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 85
+    },
+    {
+     "idx": 29,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 111
+    },
+    {
+     "idx": 35,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 76
+    },
+    {
+     "idx": 28,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 66
+    },
+    {
+     "idx": 49,
+     "gold": "A",
+     "answer": null,
+     "response_len": 512
+    },
+    {
+     "idx": 2,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 102
+    },
+    {
+     "idx": 28,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 92
+    },
+    {
+     "idx": 37,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 159
+    },
+    {
+     "idx": 46,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 124
+    },
+    {
+     "idx": 12,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 171
+    },
+    {
+     "idx": 6,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 98
+    },
+    {
+     "idx": 41,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 54
+    },
+    {
+     "idx": 41,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 175
+    },
+    {
+     "idx": 29,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 147
+    },
+    {
+     "idx": 2,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 85
+    },
+    {
+     "idx": 33,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 308
+    },
+    {
+     "idx": 13,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 95
+    },
+    {
+     "idx": 30,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 248
+    },
+    {
+     "idx": 25,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 154
+    },
+    {
+     "idx": 28,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 187
+    },
+    {
+     "idx": 42,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 101
+    },
+    {
+     "idx": 1,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 133
+    },
+    {
+     "idx": 41,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 162
+    },
+    {
+     "idx": 22,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 96
+    },
+    {
+     "idx": 23,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 224
+    },
+    {
+     "idx": 6,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 92
+    },
+    {
+     "idx": 40,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 220
+    },
+    {
+     "idx": 34,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 72
+    },
+    {
+     "idx": 46,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 169
+    },
+    {
+     "idx": 45,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 132
+    },
+    {
+     "idx": 15,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 81
+    },
+    {
+     "idx": 34,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 269
+    },
+    {
+     "idx": 43,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 110
+    },
+    {
+     "idx": 25,
+     "gold": "A",
+     "answer": null,
+     "response_len": 512
+    },
+    {
+     "idx": 40,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 157
+    },
+    {
+     "idx": 40,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 118
+    },
+    {
+     "idx": 34,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 193
+    },
+    {
+     "idx": 19,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 78
+    },
+    {
+     "idx": 28,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 185
+    },
+    {
+     "idx": 23,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 111
+    },
+    {
+     "idx": 48,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 93
+    },
+    {
+     "idx": 48,
+     "gold": "A",
+     "answer": "B",
+     "response_len": 306
+    },
+    {
+     "idx": 9,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 255
+    },
+    {
+     "idx": 6,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 143
+    },
+    {
+     "idx": 9,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 98
+    },
+    {
+     "idx": 32,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 89
+    },
+    {
+     "idx": 6,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 126
+    },
+    {
+     "idx": 39,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 201
+    },
+    {
+     "idx": 45,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 128
+    },
+    {
+     "idx": 10,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 113
+    },
+    {
+     "idx": 21,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 155
+    },
+    {
+     "idx": 21,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 79
+    },
+    {
+     "idx": 25,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 253
+    },
+    {
+     "idx": 32,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 137
+    },
+    {
+     "idx": 31,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 173
+    },
+    {
+     "idx": 29,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 141
+    },
+    {
+     "idx": 45,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 58
+    },
+    {
+     "idx": 36,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 84
+    },
+    {
+     "idx": 40,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 117
+    },
+    {
+     "idx": 34,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 79
+    },
+    {
+     "idx": 33,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 104
+    },
+    {
+     "idx": 2,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 73
+    },
+    {
+     "idx": 14,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 229
+    },
+    {
+     "idx": 49,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 106
+    },
+    {
+     "idx": 44,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 109
+    },
+    {
+     "idx": 39,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 157
+    },
+    {
+     "idx": 7,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 108
+    },
+    {
+     "idx": 3,
+     "gold": "A",
+     "answer": "C",
+     "response_len": 512
+    },
+    {
+     "idx": 42,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 83
+    },
+    {
+     "idx": 23,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 81
+    },
+    {
+     "idx": 29,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 102
+    },
+    {
+     "idx": 3,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 80
+    },
+    {
+     "idx": 36,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 163
+    },
+    {
+     "idx": 16,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 110
+    },
+    {
+     "idx": 24,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 88
+    },
+    {
+     "idx": 26,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 95
+    },
+    {
+     "idx": 15,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 97
+    },
+    {
+     "idx": 17,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 195
+    },
+    {
+     "idx": 40,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 101
+    },
+    {
+     "idx": 9,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 148
+    },
+    {
+     "idx": 29,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 92
+    },
+    {
+     "idx": 7,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 69
+    },
+    {
+     "idx": 45,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 190
+    },
+    {
+     "idx": 19,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 150
+    },
+    {
+     "idx": 32,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 104
+    },
+    {
+     "idx": 49,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 235
+    },
+    {
+     "idx": 11,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 246
+    },
+    {
+     "idx": 18,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 160
+    },
+    {
+     "idx": 35,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 194
+    },
+    {
+     "idx": 39,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 220
+    },
+    {
+     "idx": 39,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 56
+    },
+    {
+     "idx": 14,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 97
+    },
+    {
+     "idx": 11,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 144
+    },
+    {
+     "idx": 35,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 81
+    },
+    {
+     "idx": 10,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 187
+    },
+    {
+     "idx": 31,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 243
+    },
+    {
+     "idx": 49,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 104
+    },
+    {
+     "idx": 13,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 138
+    },
+    {
+     "idx": 10,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 233
+    },
+    {
+     "idx": 44,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 76
+    },
+    {
+     "idx": 23,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 87
+    },
+    {
+     "idx": 43,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 92
+    },
+    {
+     "idx": 23,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 103
+    },
+    {
+     "idx": 34,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 221
+    },
+    {
+     "idx": 24,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 247
+    },
+    {
+     "idx": 4,
+     "gold": "A",
+     "answer": null,
+     "response_len": 512
+    },
+    {
+     "idx": 41,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 123
+    },
+    {
+     "idx": 18,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 84
+    },
+    {
+     "idx": 47,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 95
+    },
+    {
+     "idx": 37,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 187
+    },
+    {
+     "idx": 40,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 138
+    },
+    {
+     "idx": 12,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 68
+    },
+    {
+     "idx": 44,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 89
+    },
+    {
+     "idx": 38,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 134
+    },
+    {
+     "idx": 8,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 131
+    },
+    {
+     "idx": 25,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 137
+    },
+    {
+     "idx": 18,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 225
+    },
+    {
+     "idx": 21,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 66
+    },
+    {
+     "idx": 22,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 121
+    },
+    {
+     "idx": 42,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 216
+    },
+    {
+     "idx": 49,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 186
+    },
+    {
+     "idx": 9,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 166
+    },
+    {
+     "idx": 28,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 122
+    },
+    {
+     "idx": 21,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 224
+    },
+    {
+     "idx": 42,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 277
+    },
+    {
+     "idx": 32,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 84
+    },
+    {
+     "idx": 28,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 118
+    },
+    {
+     "idx": 38,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 135
+    },
+    {
+     "idx": 26,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 220
+    },
+    {
+     "idx": 30,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 139
+    },
+    {
+     "idx": 40,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 103
+    },
+    {
+     "idx": 46,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 183
+    },
+    {
+     "idx": 14,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 101
+    },
+    {
+     "idx": 1,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 202
+    },
+    {
+     "idx": 22,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 76
+    },
+    {
+     "idx": 10,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 86
+    },
+    {
+     "idx": 20,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 94
+    },
+    {
+     "idx": 17,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 118
+    },
+    {
+     "idx": 41,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 189
+    },
+    {
+     "idx": 18,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 134
+    },
+    {
+     "idx": 0,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 142
+    },
+    {
+     "idx": 0,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 168
+    },
+    {
+     "idx": 49,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 193
+    },
+    {
+     "idx": 46,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 89
+    },
+    {
+     "idx": 8,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 107
+    },
+    {
+     "idx": 8,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 274
+    },
+    {
+     "idx": 19,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 66
+    },
+    {
+     "idx": 26,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 84
+    },
+    {
+     "idx": 16,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 158
+    },
+    {
+     "idx": 47,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 176
+    },
+    {
+     "idx": 45,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 157
+    },
+    {
+     "idx": 35,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 86
+    },
+    {
+     "idx": 43,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 132
+    },
+    {
+     "idx": 42,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 171
+    },
+    {
+     "idx": 36,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 173
+    },
+    {
+     "idx": 27,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 114
+    },
+    {
+     "idx": 16,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 126
+    },
+    {
+     "idx": 45,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 107
+    },
+    {
+     "idx": 46,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 142
+    },
+    {
+     "idx": 44,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 82
+    },
+    {
+     "idx": 48,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 118
+    },
+    {
+     "idx": 23,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 100
+    },
+    {
+     "idx": 44,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 141
+    },
+    {
+     "idx": 12,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 72
+    },
+    {
+     "idx": 48,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 107
+    },
+    {
+     "idx": 5,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 123
+    },
+    {
+     "idx": 22,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 93
+    },
+    {
+     "idx": 27,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 139
+    },
+    {
+     "idx": 47,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 101
+    },
+    {
+     "idx": 0,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 87
+    },
+    {
+     "idx": 48,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 56
+    },
+    {
+     "idx": 16,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 173
+    },
+    {
+     "idx": 48,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 117
+    },
+    {
+     "idx": 26,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 86
+    },
+    {
+     "idx": 37,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 118
+    },
+    {
+     "idx": 39,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 225
+    },
+    {
+     "idx": 13,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 228
+    },
+    {
+     "idx": 18,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 135
+    },
+    {
+     "idx": 49,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 100
+    },
+    {
+     "idx": 47,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 133
+    },
+    {
+     "idx": 4,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 125
+    },
+    {
+     "idx": 5,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 153
+    },
+    {
+     "idx": 0,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 80
+    },
+    {
+     "idx": 10,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 117
+    },
+    {
+     "idx": 13,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 299
+    },
+    {
+     "idx": 41,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 246
+    },
+    {
+     "idx": 46,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 353
+    },
+    {
+     "idx": 29,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 87
+    },
+    {
+     "idx": 28,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 117
+    },
+    {
+     "idx": 17,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 85
+    },
+    {
+     "idx": 22,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 134
+    },
+    {
+     "idx": 11,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 90
+    },
+    {
+     "idx": 22,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 95
+    },
+    {
+     "idx": 13,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 121
+    },
+    {
+     "idx": 40,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 112
+    },
+    {
+     "idx": 47,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 201
+    },
+    {
+     "idx": 32,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 92
+    },
+    {
+     "idx": 10,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 94
+    },
+    {
+     "idx": 16,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 61
+    },
+    {
+     "idx": 39,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 208
+    },
+    {
+     "idx": 24,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 89
+    },
+    {
+     "idx": 20,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 71
+    },
+    {
+     "idx": 23,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 102
+    },
+    {
+     "idx": 2,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 90
+    },
+    {
+     "idx": 13,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 142
+    },
+    {
+     "idx": 0,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 193
+    },
+    {
+     "idx": 20,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 264
+    },
+    {
+     "idx": 42,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 111
+    },
+    {
+     "idx": 38,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 88
+    },
+    {
+     "idx": 22,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 244
+    },
+    {
+     "idx": 13,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 148
+    },
+    {
+     "idx": 4,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 95
+    },
+    {
+     "idx": 30,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 159
+    },
+    {
+     "idx": 18,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 117
+    },
+    {
+     "idx": 47,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 194
+    },
+    {
+     "idx": 7,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 184
+    },
+    {
+     "idx": 30,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 74
+    },
+    {
+     "idx": 12,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 159
+    },
+    {
+     "idx": 31,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 148
+    },
+    {
+     "idx": 33,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 92
+    },
+    {
+     "idx": 16,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 224
+    },
+    {
+     "idx": 43,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 267
+    },
+    {
+     "idx": 26,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 157
+    },
+    {
+     "idx": 35,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 84
+    },
+    {
+     "idx": 32,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 80
+    },
+    {
+     "idx": 4,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 75
+    },
+    {
+     "idx": 27,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 246
+    },
+    {
+     "idx": 12,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 211
+    },
+    {
+     "idx": 11,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 143
+    },
+    {
+     "idx": 22,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 63
+    },
+    {
+     "idx": 31,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 117
+    },
+    {
+     "idx": 1,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 141
+    },
+    {
+     "idx": 36,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 127
+    },
+    {
+     "idx": 41,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 145
+    },
+    {
+     "idx": 19,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 141
+    },
+    {
+     "idx": 0,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 109
+    },
+    {
+     "idx": 35,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 124
+    },
+    {
+     "idx": 37,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 121
+    },
+    {
+     "idx": 23,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 76
+    },
+    {
+     "idx": 0,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 197
+    },
+    {
+     "idx": 8,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 57
+    },
+    {
+     "idx": 25,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 160
+    },
+    {
+     "idx": 11,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 116
+    },
+    {
+     "idx": 8,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 222
+    },
+    {
+     "idx": 14,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 89
+    },
+    {
+     "idx": 11,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 56
+    },
+    {
+     "idx": 22,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 149
+    },
+    {
+     "idx": 15,
+     "gold": "A",
+     "answer": null,
+     "response_len": 512
+    },
+    {
+     "idx": 28,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 113
+    },
+    {
+     "idx": 9,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 90
+    },
+    {
+     "idx": 16,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 138
+    },
+    {
+     "idx": 48,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 128
+    },
+    {
+     "idx": 36,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 92
+    },
+    {
+     "idx": 28,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 147
+    },
+    {
+     "idx": 44,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 129
+    },
+    {
+     "idx": 21,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 160
+    },
+    {
+     "idx": 8,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 197
+    },
+    {
+     "idx": 11,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 98
+    },
+    {
+     "idx": 14,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 161
+    },
+    {
+     "idx": 6,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 115
+    },
+    {
+     "idx": 48,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 176
+    },
+    {
+     "idx": 33,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 94
+    },
+    {
+     "idx": 44,
+     "gold": "A",
+     "answer": null,
+     "response_len": 512
+    },
+    {
+     "idx": 5,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 79
+    },
+    {
+     "idx": 24,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 88
+    },
+    {
+     "idx": 1,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 65
+    },
+    {
+     "idx": 20,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 163
+    },
+    {
+     "idx": 7,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 109
+    },
+    {
+     "idx": 48,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 74
+    },
+    {
+     "idx": 11,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 84
+    },
+    {
+     "idx": 32,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 142
+    },
+    {
+     "idx": 20,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 95
+    },
+    {
+     "idx": 15,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 275
+    },
+    {
+     "idx": 5,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 150
+    },
+    {
+     "idx": 38,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 142
+    },
+    {
+     "idx": 47,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 73
+    },
+    {
+     "idx": 32,
+     "gold": "A",
+     "answer": null,
+     "response_len": 512
+    }
+   ]
+  },
+  {
+   "alpha": -1.0,
+   "items": [
+    {
+     "idx": 19,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 78
+    },
+    {
+     "idx": 9,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 138
+    },
+    {
+     "idx": 30,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 114
+    },
+    {
+     "idx": 31,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 102
+    },
+    {
+     "idx": 20,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 245
+    },
+    {
+     "idx": 26,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 71
+    },
+    {
+     "idx": 1,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 89
+    },
+    {
+     "idx": 6,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 130
+    },
+    {
+     "idx": 16,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 127
+    },
+    {
+     "idx": 8,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 68
+    },
+    {
+     "idx": 31,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 227
+    },
+    {
+     "idx": 26,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 231
+    },
+    {
+     "idx": 18,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 130
+    },
+    {
+     "idx": 3,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 98
+    },
+    {
+     "idx": 43,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 352
+    },
+    {
+     "idx": 11,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 235
+    },
+    {
+     "idx": 33,
+     "gold": "A",
+     "answer": null,
+     "response_len": 512
+    },
+    {
+     "idx": 24,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 202
+    },
+    {
+     "idx": 17,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 92
+    },
+    {
+     "idx": 17,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 315
+    },
+    {
+     "idx": 0,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 312
+    },
+    {
+     "idx": 45,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 80
+    },
+    {
+     "idx": 47,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 119
+    },
+    {
+     "idx": 44,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 178
+    },
+    {
+     "idx": 24,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 81
+    },
+    {
+     "idx": 35,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 227
+    },
+    {
+     "idx": 31,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 114
+    },
+    {
+     "idx": 20,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 237
+    },
+    {
+     "idx": 14,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 91
+    },
+    {
+     "idx": 0,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 99
+    },
+    {
+     "idx": 49,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 103
+    },
+    {
+     "idx": 46,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 235
+    },
+    {
+     "idx": 5,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 147
+    },
+    {
+     "idx": 12,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 129
+    },
+    {
+     "idx": 2,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 73
+    },
+    {
+     "idx": 36,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 133
+    },
+    {
+     "idx": 15,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 82
+    },
+    {
+     "idx": 8,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 126
+    },
+    {
+     "idx": 43,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 80
+    },
+    {
+     "idx": 14,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 61
+    },
+    {
+     "idx": 42,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 124
+    },
+    {
+     "idx": 48,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 146
+    },
+    {
+     "idx": 38,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 94
+    },
+    {
+     "idx": 33,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 205
+    },
+    {
+     "idx": 7,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 144
+    },
+    {
+     "idx": 27,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 59
+    },
+    {
+     "idx": 4,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 67
+    },
+    {
+     "idx": 10,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 80
+    },
+    {
+     "idx": 27,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 102
+    },
+    {
+     "idx": 6,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 109
+    }
+   ]
+  },
+  {
+   "alpha": -2.0,
+   "items": [
+    {
+     "idx": 19,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 100
+    },
+    {
+     "idx": 9,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 139
+    },
+    {
+     "idx": 30,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 107
+    },
+    {
+     "idx": 31,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 102
+    },
+    {
+     "idx": 20,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 97
+    },
+    {
+     "idx": 26,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 71
+    },
+    {
+     "idx": 1,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 89
+    },
+    {
+     "idx": 6,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 130
+    },
+    {
+     "idx": 16,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 127
+    },
+    {
+     "idx": 8,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 74
+    },
+    {
+     "idx": 31,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 210
+    },
+    {
+     "idx": 26,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 229
+    },
+    {
+     "idx": 18,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 106
+    },
+    {
+     "idx": 3,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 170
+    },
+    {
+     "idx": 43,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 354
+    },
+    {
+     "idx": 11,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 247
+    },
+    {
+     "idx": 33,
+     "gold": "A",
+     "answer": null,
+     "response_len": 512
+    },
+    {
+     "idx": 24,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 204
+    },
+    {
+     "idx": 17,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 92
+    },
+    {
+     "idx": 17,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 346
+    },
+    {
+     "idx": 0,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 261
+    },
+    {
+     "idx": 45,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 85
+    },
+    {
+     "idx": 47,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 119
+    },
+    {
+     "idx": 44,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 144
+    },
+    {
+     "idx": 24,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 83
+    },
+    {
+     "idx": 35,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 140
+    },
+    {
+     "idx": 31,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 242
+    },
+    {
+     "idx": 20,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 229
+    },
+    {
+     "idx": 14,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 90
+    },
+    {
+     "idx": 0,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 95
+    },
+    {
+     "idx": 49,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 106
+    },
+    {
+     "idx": 46,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 235
+    },
+    {
+     "idx": 5,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 147
+    },
+    {
+     "idx": 12,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 129
+    },
+    {
+     "idx": 2,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 73
+    },
+    {
+     "idx": 36,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 132
+    },
+    {
+     "idx": 15,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 82
+    },
+    {
+     "idx": 8,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 89
+    },
+    {
+     "idx": 43,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 74
+    },
+    {
+     "idx": 14,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 61
+    },
+    {
+     "idx": 42,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 131
+    },
+    {
+     "idx": 48,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 121
+    },
+    {
+     "idx": 38,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 94
+    },
+    {
+     "idx": 33,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 206
+    },
+    {
+     "idx": 7,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 149
+    },
+    {
+     "idx": 27,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 58
+    },
+    {
+     "idx": 4,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 67
+    },
+    {
+     "idx": 10,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 89
+    },
+    {
+     "idx": 27,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 102
+    },
+    {
+     "idx": 6,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 109
+    }
+   ]
+  },
+  {
+   "alpha": -4.0,
+   "items": [
+    {
+     "idx": 19,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 166
+    },
+    {
+     "idx": 9,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 140
+    },
+    {
+     "idx": 30,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 80
+    },
+    {
+     "idx": 31,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 100
+    },
+    {
+     "idx": 20,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 100
+    },
+    {
+     "idx": 26,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 71
+    },
+    {
+     "idx": 1,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 89
+    },
+    {
+     "idx": 6,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 144
+    },
+    {
+     "idx": 16,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 127
+    },
+    {
+     "idx": 8,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 68
+    },
+    {
+     "idx": 31,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 202
+    },
+    {
+     "idx": 26,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 226
+    },
+    {
+     "idx": 18,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 76
+    },
+    {
+     "idx": 3,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 98
+    },
+    {
+     "idx": 43,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 281
+    },
+    {
+     "idx": 11,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 240
+    },
+    {
+     "idx": 33,
+     "gold": "A",
+     "answer": "B",
+     "response_len": 413
+    },
+    {
+     "idx": 24,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 133
+    },
+    {
+     "idx": 17,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 201
+    },
+    {
+     "idx": 17,
+     "gold": "A",
+     "answer": null,
+     "response_len": 512
+    },
+    {
+     "idx": 0,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 277
+    },
+    {
+     "idx": 45,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 85
+    },
+    {
+     "idx": 47,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 120
+    },
+    {
+     "idx": 44,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 197
+    },
+    {
+     "idx": 24,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 87
+    },
+    {
+     "idx": 35,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 138
+    },
+    {
+     "idx": 31,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 139
+    },
+    {
+     "idx": 20,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 232
+    },
+    {
+     "idx": 14,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 90
+    },
+    {
+     "idx": 0,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 85
+    },
+    {
+     "idx": 49,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 106
+    },
+    {
+     "idx": 46,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 237
+    },
+    {
+     "idx": 5,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 147
+    },
+    {
+     "idx": 12,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 129
+    },
+    {
+     "idx": 2,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 73
+    },
+    {
+     "idx": 36,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 135
+    },
+    {
+     "idx": 15,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 82
+    },
+    {
+     "idx": 8,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 170
+    },
+    {
+     "idx": 43,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 74
+    },
+    {
+     "idx": 14,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 61
+    },
+    {
+     "idx": 42,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 131
+    },
+    {
+     "idx": 48,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 145
+    },
+    {
+     "idx": 38,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 94
+    },
+    {
+     "idx": 33,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 170
+    },
+    {
+     "idx": 7,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 140
+    },
+    {
+     "idx": 27,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 59
+    },
+    {
+     "idx": 4,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 67
+    },
+    {
+     "idx": 10,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 67
+    },
+    {
+     "idx": 27,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 107
+    },
+    {
+     "idx": 6,
+     "gold": "A",
+     "answer": "A",
+     "response_len": 84
+    }
+   ]
+  }
+ ]
+}

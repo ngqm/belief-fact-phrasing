@@ -1,0 +1,9 @@
+{
+ "model": "gemma-3-4b",
+ "n_layers": 34,
+ "n_items": 1000,
+ "n_factual": 500,
+ "n_false": 500,
+ "acc_factual": 0.948,
+ "acc_false": 0.794
+}
