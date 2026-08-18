@@ -1,0 +1,65 @@
+{
+  "model": "llama-3.3-70b",
+  "results": {
+    "orig_orig_factual": {
+      "acc": 0.998,
+      "parsed": 499,
+      "n": 500
+    },
+    "orig_orig_false": {
+      "acc": 0.926,
+      "parsed": 499,
+      "n": 500
+    },
+    "orig_nofc_factual": {
+      "acc": 0.998,
+      "parsed": 499,
+      "n": 500
+    },
+    "orig_nofc_false": {
+      "acc": 0.998,
+      "parsed": 499,
+      "n": 500
+    },
+    "yesB_orig_factual": {
+      "acc": 0.994,
+      "parsed": 498,
+      "n": 500
+    },
+    "yesB_orig_false": {
+      "acc": 0.946,
+      "parsed": 498,
+      "n": 500
+    },
+    "yesB_nofc_factual": {
+      "acc": 1.0,
+      "parsed": 500,
+      "n": 500
+    },
+    "yesB_nofc_false": {
+      "acc": 0.998,
+      "parsed": 499,
+      "n": 500
+    },
+    "yesC_orig_factual": {
+      "acc": 1.0,
+      "parsed": 500,
+      "n": 500
+    },
+    "yesC_orig_false": {
+      "acc": 0.966,
+      "parsed": 498,
+      "n": 500
+    },
+    "yesC_nofc_factual": {
+      "acc": 0.998,
+      "parsed": 499,
+      "n": 500
+    },
+    "yesC_nofc_false": {
+      "acc": 1.0,
+      "parsed": 500,
+      "n": 500
+    }
+  }
+}
